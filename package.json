@@ -1,12 +1,12 @@
 {
-  "name": "Uzurion-Launcher",
-  "version": "2.0.7",
-  "productName": "Uzurion Launcher",
+  "name": "RizVolution-Launcher",
+  "version": "1.1.1",
+  "productName": "RizVolution Launcher",
   "description": "Launcher Mincraft custom (crack, premium)",
   "main": "src/index.html",
   "author": "Luuxis",
   "window": {
-    "title": "Uzurion update",
+    "title": "RizVolution update",
     "width": 400,
     "height": 500,
     "frame": false,
@@ -18,7 +18,7 @@
     "node": "16.x.x"
   },
   "chromium-args": "--enable-logging --v=1 --disable-gpu --mixed-content",
-  "url": "http://146.59.227.140",
+  "url": "https://launcher.rizvolution.be/",
   "user": "",
   "webkit": {
     "plugin": true
@@ -62,7 +62,7 @@
     "overriddenProperties": {
       "main": "app/index.html",
       "window": {
-        "title": "Uzurion update",
+        "title": "RizVolution update",
         "width": 400,
         "height": 500,
         "frame": false,
@@ -73,16 +73,16 @@
     },
     "outputPattern": "${NAME}-${PLATFORM}",
     "win": {
-      "productName": "Uzurion Launcher",
-      "companyName": "Uzurion Launcher",
+      "productName": "RizVolution Launcher",
+      "companyName": "RizVolution Launcher",
       "copyright": "copyright",
       "icon": "src/assets/images/icons/icon.ico"
     },
     "mac": {
-      "displayName": "Uzurion-Launcher",
+      "displayName": "RizVolution-Launcher",
       "copyright": "copyright",
       "plistStrings": {
-        "CFBundleIdentifier": "Uzurion-Launcher"
+        "CFBundleIdentifier": "RizVolution-Launcher"
       }
     },
     "nsis": {
