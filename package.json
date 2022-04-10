@@ -18,7 +18,7 @@
     "node": "16.x.x"
   },
   "chromium-args": "--enable-logging --v=1 --disable-gpu --mixed-content",
-  "url": "https://launcher.rizvolution.be/",
+  "url": "https://launcherriz.go.yj.fr/",
   "user": "",
   "webkit": {
     "plugin": true
